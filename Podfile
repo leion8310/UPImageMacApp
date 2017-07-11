@@ -3,11 +3,11 @@ use_frameworks!
 
 def pods
    pod 'Qiniu'
-   pod ‘MASPreferences’
+   pod 'MASPreferences'
    pod 'Alamofire'
    pod 'TMCache'
 end
 
-target ‘PicU’ do
+target 'PicU' do
     pods
 end
